@@ -1,0 +1,11 @@
+.first-image{
+    height: 400px;
+    width: 600px;
+    
+}
+
+.div-item-center{
+    align-items: center;
+    text-align: justify;
+    color: blue;
+}
