@@ -63,3 +63,23 @@
 .info{
     padding-top: 15%;
 }
+
+.photo{
+    height: 100%;
+    width: 100%;
+    background-color: #5E3BEE;
+}
+
+.intro{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.my-photo{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+    margin-right: 24px;
+}
